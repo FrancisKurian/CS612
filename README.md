@@ -1,1 +1,1 @@
-# CS612
+#  CS 612 - Advanced Numerical Methods
